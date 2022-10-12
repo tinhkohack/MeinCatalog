@@ -1,0 +1,10 @@
+#name1 {
+    color: aliceblue;
+    position: relative;
+    left: 115px;
+}
+.tank_no_1 {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+}
